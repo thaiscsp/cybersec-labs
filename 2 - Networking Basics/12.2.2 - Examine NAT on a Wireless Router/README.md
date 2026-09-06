@@ -10,8 +10,6 @@ Build a simple LAN and observe how NAT translates IP addresses on packets travel
 
 1. Connected a PC to the wireless router and enabled DHCP on it, making it dynamically request for IP configuration values from the router's DHCP server. PC0 then set its IP address to 192.168.1.100 and default gateway address to 192.168.1.1.
 
-![Packet Tracer - Initial Topology](topology.png)
-
 2. Opened the web browser on PC0 and entered the IP address of the default gateway, accessing the router's configuration GUI.
 
 3. Opened the "Status" menu option to visualize the router's public IP address (that is, the one assigned to its Internet port), obtained from the ISP's DHCP server: 209.185.200.227.
@@ -24,7 +22,7 @@ Build a simple LAN and observe how NAT translates IP addresses on packets travel
 
 1. Added 3 other PCs to the network and connected them to the router, enabling DHCP on all of them. They all received IP addressing within the DHCP server's range.
 
-2. Verified each PCs configuration by entering the command `ipconfig /all` in the Command Prompt, which displays IP, DHCP and DNS information for all NICs in the device.
+2. Verified each PC's configuration by entering the command `ipconfig /all` in the Command Prompt, which displays IP, DHCP and DNS information for all NICs in the device.
 
 ![PC0 - ipconfig /all](ipconfig.png)
 
