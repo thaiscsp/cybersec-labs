@@ -49,4 +49,6 @@ Each lab's README is structured in the following subsections:
 
 Right now I'm taking the "Endpoint Security" course and hope to update this repo soon with more projects.
 
-Thank you for reading! <img src="Images/bomberman-cheer.png">
+Thank you for reading!
+<br><br>
+<img src="Images/bomberman-cheer.png">
