@@ -1,45 +1,49 @@
-# Hello there! <img src="Images/bomberman-idle.png">
+# Hello there! ![bomberman-idle]
 
-I'm Thaís Peixoto, a cybersecurity student currently enrolled in the "Mulher Digital" ("She Is Digital") program in Brazil. Along with many other women aspiring to work in this field, I'm following Cisco NetAcad's "Junior Cybersecurity Analyst" course path and plan on taking the CCST exam by the end of the year. I've made this repository to track my progress and also to show a little of what I have learned so far. <img src="Images/heart.png">
+I'm Thaís Peixoto, a cybersecurity student currently enrolled in the "Mulher Digital" ("She Is Digital") program in Brazil. Along with many other women aspiring to work in this field, I'm following Cisco NetAcad's "Junior Cybersecurity Analyst" course path and plan on taking the CCST exam by the end of the year. I've made this repository to track my progress and also to show a little of what I have learned so far. ![heart]
 
 I have picked some main laboratory practices from the courses taken until now and wrote step-by-step README's, with pictures to better visualize the process of each activity.
 
-Below are the laboratories chosen for this repository by course:
+Below are the laboratories chosen for this repository by course.
 
-### <img src="Images/fire.png"> <a href="1 - Introduction to Cybersecurity/Thaís Peixoto - Introduction to Cybersecurity (Introdução à Cibersegurança).pdf">Introduction to Cybersecurity</a>
+*Status subtitle:*
+*<br>![golden-fire] - Completed*
+*<br>![clock] - Pending*
 
-| Lab | Status |
-|-----|--------|
-| 1.3 - What Was Taken? | 🚧 |
-| 3.3 - Who Owns Your Data? | 🚧 |
-| 3.5 - Discover Your Own Risky Online Behavior | 🚧 |
-
-### <img src="Images/fire.png"> <a href="2 - Networking Basics/Thaís Peixoto - Networking Basics (Conceitos Básicos de Redes).pdf">Networking Basics</a>
+### ![fire] [Introduction to Cybersecurity][intro-cybersec]
 
 | Lab | Status |
-|-----|--------|
-| <a href="2 - Networking Basics/12.2.2 - Examine NAT on a Wireless Router/README.md">12.2.2 - Examine NAT on a Wireless Router</a> | ✅ |
-| 13.1.3 - Identify MAC and IP Addresses | 🚧 |
-| 14.3.3 - Observe Traffic Flow in a Routed Network | 🚧 |
-| 16.5.3 - Use FTP Services | 🚧 |
-| 16.6.4 - Use Telnet and SSH | 🚧 |
+|-----|:------:|
+| 1.3 - What Was Taken? | ![clock] |
+| 3.3 - Who Owns Your Data? | ![clock] |
+| 3.5 - Discover Your Own Risky Online Behavior | ![clock] |
 
-### <img src="Images/fire.png"> <a href="3 - Networking Devices and Initial Configuration/Thaís Peixoto - Networking Devices and Initial Configuration (Dispositivos de Rede e Configuração Inicial).pdf">Networking Devices and Initial Configuration</a>
+### ![fire] [Networking Basics][net-basics]
 
 | Lab | Status |
-|-----|--------|
-| 7.1.9 - Examine the ARP Table | 🚧 |
-| 11.2.4 - Configure Initial Router Settings | 🚧 |
-| 11.3.6 - Configure SSH | 🚧 |
-| 11.4.4 - Build a Switch and Router Network | 🚧 |
-| 11.4.5 - Troubleshoot Default Gateway Issues | 🚧 |
-| 12.3.1 - Use ICMP to Test and Correct Network Connectivity | 🚧 |
+|-----|:------:|
+| [12.2.2 - Examine NAT on a Wireless Router][net-basics-12.2.2] | ![golden-fire] |
+| 13.1.3 - Identify MAC and IP Addresses | ![clock] |
+| 14.3.3 - Observe Traffic Flow in a Routed Network | ![clock] |
+| 16.5.3 - Use FTP Services | ![clock] |
+| 16.6.4 - Use Telnet and SSH | ![clock] |
 
-### <img src="Images/fire.png"> Endpoint Security
+### ![fire] [Networking Devices and Initial Configuration][net-devices]
 
 | Lab | Status |
-|-----|--------|
-| In progress... | 🚧 |
+|-----|:------:|
+| 7.1.9 - Examine the ARP Table | ![clock] |
+| 11.2.4 - Configure Initial Router Settings | ![clock] |
+| 11.3.6 - Configure SSH | ![clock] |
+| 11.4.4 - Build a Switch and Router Network | ![clock] |
+| 11.4.5 - Troubleshoot Default Gateway Issues | ![clock] |
+| 12.3.1 - Use ICMP to Test and Correct Network Connectivity | ![clock] |
+
+### ![fire] Endpoint Security
+
+| Lab | Status |
+|-----|:------:|
+| In progress... | ![clock] |
 
 
 Each lab's README is structured in the following subsections:
@@ -49,6 +53,26 @@ Each lab's README is structured in the following subsections:
 
 Right now I'm taking the "Endpoint Security" course and hope to update this repo soon with more projects.
 
-Thank you for reading!
+**Thank you for reading!**
 <br><br>
-<img src="Images/bomberman-cheer.png">
+![bomberman-cheer]
+
+
+
+<!-- Paths -->
+
+<!-- Certificates -->
+[intro-cybersec]: <1 - Introduction to Cybersecurity/Thaís Peixoto - Introduction to Cybersecurity (Introdução à Cibersegurança).pdf>
+[net-basics]: <2 - Networking Basics/Thaís Peixoto - Networking Basics (Conceitos Básicos de Redes).pdf>
+[net-devices]: <3 - Networking Devices and Initial Configuration/Thaís Peixoto - Networking Devices and Initial Configuration (Dispositivos de Rede e Configuração Inicial).pdf>
+
+<!-- Networking Basics labs -->
+[net-basics-12.2.2]: <2 - Networking Basics/12.2.2 - Examine NAT on a Wireless Router/README.md>
+
+<!-- Images -->
+[bomberman-cheer]: Images/bomberman-cheer.png
+[bomberman-idle]: Images/bomberman-idle.png
+[clock]: Images/clock.png
+[fire]: Images/fire.png
+[golden-fire]: Images/golden-fire.png
+[heart]: Images/heart.png
