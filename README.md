@@ -10,7 +10,7 @@ Below are the laboratories chosen for this repository by course.
 *<br>![golden-fire] - Completed*
 *<br>![clock] - Pending*
 
-### ![fire] [Introduction to Cybersecurity][intro-cybersec]
+### ![1-up] [Introduction to Cybersecurity][intro-cybersec]
 
 | Lab | Status |
 |-----|:------:|
@@ -28,7 +28,7 @@ Below are the laboratories chosen for this repository by course.
 | 16.5.3 - Use FTP Services | ![clock] |
 | 16.6.4 - Use Telnet and SSH | ![clock] |
 
-### ![fire] [Networking Devices and Initial Configuration][net-devices]
+### ![onigiri] [Networking Devices and Initial Configuration][net-devices]
 
 | Lab | Status |
 |-----|:------:|
@@ -39,7 +39,7 @@ Below are the laboratories chosen for this repository by course.
 | 11.4.5 - Troubleshoot Default Gateway Issues | ![clock] |
 | 12.3.1 - Use ICMP to Test and Correct Network Connectivity | ![clock] |
 
-### ![fire] Endpoint Security
+### ![cake] Endpoint Security
 
 | Lab | Status |
 |-----|:------:|
@@ -75,9 +75,13 @@ Right now I'm taking the "Endpoint Security" course and hope to update this repo
 [net-basics-12.2.2]: <2 - Networking Basics/12.2.2 - Examine NAT on a Wireless Router/README.md>
 
 <!-- Images -->
+[1-up]: Images/1-up.png
 [bomberman-cheer]: Images/bomberman-cheer.png
 [bomberman-idle]: Images/bomberman-idle.png
+[cake]: Images/cake.png
 [clock]: Images/clock.png
 [fire]: Images/fire.png
 [golden-fire]: Images/golden-fire.png
 [heart]: Images/heart.png
+[icecream]: Images/icecream.png
+[onigiri]: Images/onigiri.png

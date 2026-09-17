@@ -1,4 +1,4 @@
-# 1.3 - What Was Taken?
+# ![1-up] 1.3 - What Was Taken?
 
 ## Objectives
 
@@ -18,3 +18,5 @@ In scenario 1, it is possible that the employee who had their login credentials 
 To avoid scenarios like these it is always important to take measures such as the following:
 * Educate employees in the topic of cybersecurity so that they are able to recognize an attack and report it to superiors or specialized teams in the organization.
 * Plan and enforce security practices such as access control (physical and digital), 2FA, VPN and complex passwords, among other possible solutions. Users should also be aware of consequences if such practices are ignored or violated.
+
+[1-up]: ../../Images/1-up.png
