@@ -16,7 +16,7 @@ Below are the laboratories chosen for this repository by course.
 |-----|:------:|
 | [1.3 - What Was Taken?][intro-cybersec-1.3] | ![golden-fire] |
 | [3.3 - Who Owns Your Data?][intro-cybersec-3.3] | ![golden-fire] |
-| 3.5 - Discover Your Own Risky Online Behavior | ![clock] |
+| [3.5 - Discover Your Own Risky Online Behavior][intro-cybersec-3.5] | ![golden-fire] |
 
 ### ![fire] [Networking Basics][net-basics]
 
@@ -69,6 +69,7 @@ Right now I'm taking the "Endpoint Security" course and hope to update this repo
 <!-- Introduction to Cybersecurity labs -->
 [intro-cybersec-1.3]: <1 - Introduction to Cybersecurity/1.3 - What Was Taken/README.md>
 [intro-cybersec-3.3]: <1 - Introduction to Cybersecurity/3.3 - Who Owns Your Data/README.md>
+[intro-cybersec-3.5]: <1 - Introduction to Cybersecurity/3.5 - Discover Your Own Risky Online Behavior/README.md>
 
 <!-- Networking Basics labs -->
 [net-basics-12.2.2]: <2 - Networking Basics/12.2.2 - Examine NAT on a Wireless Router/README.md>
