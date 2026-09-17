@@ -1,4 +1,4 @@
-# 3.3 - Who Owns Your Data
+# ![1-up] 3.3 - Who Owns Your Data
 
 ## Objectives
 
@@ -15,3 +15,5 @@ Terms of Service are documents that outline the rights and obligations of partie
 The third party service in this example could use the platform's data for other purposes, expose it, or even lose it without the employees being aware they consented to such possibilities.
 
 That is why it's always important to read such documents and be aware of a service provider's practices regarding privacy settings, security/backup policy and how/if your data will be used by it.
+
+[1-up]: ../../Images/1-up.png

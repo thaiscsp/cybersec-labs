@@ -1,4 +1,4 @@
-# 3.5 - Discover Your Own Risky Online Behavior
+# ![1-up] 3.5 - Discover Your Own Risky Online Behavior
 
 ## Objectives
 
@@ -23,3 +23,5 @@ All of the examples presented are very common situations that can happen to any 
 * Downloading programs from untrusted sources is almost certain to expose your device to malware, which could then affect your legitimate software, hardware components or data. Even if it may seem like an easy opportunity (such as a free program), you should always download any programs from official websites.
 * It is very common to stumble upon scary pop-ups while browsing the web. If such a situation happens, you must never follow the instructions in the window: simply close it and, to be sure, run an antivirus program. Following or downloading anything could compromise your device with malware.
 * Phishing e-mails are unfortunately very common, aiming to trick unsuspecting users into clicking links to fake websites or downloading malicious attachments. It is always important to verify the sender address, grammar, link structure and language being used, as even minor changes in any of these could prove to be warning signs.
+
+[1-up]: ../../Images/1-up.png

@@ -1,4 +1,4 @@
-# 12.2.2 - Examine NAT on a Wireless Router
+# ![fire] 12.2.2 - Examine NAT on a Wireless Router
 
 ## Objectives
 
@@ -49,3 +49,5 @@ Build a simple LAN and observe how NAT translates IP addresses on packets travel
 ## Key Takeaway
 
 NAT is a protocol capable of translating public IPv4 addresses into private ones and vice versa. It was very useful to delay the depletion of public IPv4 addresses because it enabled many hosts on a LAN to share a single public address. The translation occurs at the device serving as the gateway from the LAN to other networks.
+
+[fire]: ../../Images/fire.png
