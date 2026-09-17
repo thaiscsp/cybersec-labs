@@ -2,12 +2,12 @@
 
 ## Objectives
 
-Analyse two fictional scenarios where organizations had sensitive data exposed and think of ways these situations could have been avoided.
+Analyze two fictional scenarios where organizations had sensitive data exposed and think of ways these situations could have been avoided.
 
 ## Methodology
 
-1. Analysed scenario 1, where a hotel chain had the personal data of over three million guests exposed. The threat actors involved in this situation used the login information of one of the employees to gain access to the customer database.
-2. Analysed scenario 2, where the personal data of students (with a majority of them being minors) from an eLearning platform was exposed. The hackers were able to access the database because it was stored in a publicly accessible cloud.
+1. Analyzed scenario 1, where a hotel chain had the personal data of over three million guests exposed. The threat actors involved in this situation used the login information of one of the employees to gain access to the customer database.
+2. Analyzed scenario 2, where the personal data of students (with a majority of them being minors) from an eLearning platform was exposed. The hackers were able to access the database because it was stored in a publicly accessible cloud.
 
 ## Key takeaway
 
