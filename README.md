@@ -23,7 +23,7 @@ Below are the laboratories chosen for this repository by course.
 | Lab | Status |
 |-----|:------:|
 | [12.2.2 - Examine NAT on a Wireless Router][net-basics-12.2.2] | ![golden-fire] |
-| 13.1.3 - Identify MAC and IP Addresses | ![clock] |
+| [13.1.3 - Identify MAC and IP Addresses][net-basics-13.1.3] | ![golden-fire] |
 | 14.3.3 - Observe Traffic Flow in a Routed Network | ![clock] |
 | 16.5.3 - Use FTP Services | ![clock] |
 | 16.6.4 - Use Telnet and SSH | ![clock] |
@@ -73,6 +73,7 @@ Right now I'm taking the "Endpoint Security" course and hope to update this repo
 
 <!-- Networking Basics labs -->
 [net-basics-12.2.2]: <2 - Networking Basics/12.2.2 - Examine NAT on a Wireless Router/README.md>
+[net-basics-13.1.3]: <2 - Networking Basics/13.1.3 - Identify MAC and IP Addresses/README.md>
 
 <!-- Images -->
 [1-up]: Images/1-up.png
